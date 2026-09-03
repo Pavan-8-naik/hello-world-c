@@ -5,3 +5,5 @@ I am an engineering student learning programming and developing my skills in C, 
 
 Learning Java programming
 Activity 4 completed successfully
+
+Git branching activity completed

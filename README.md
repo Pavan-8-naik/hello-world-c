@@ -1,10 +1,3 @@
-# Portfolio C Programs
+# Pavan Naik
 
-This repository contains my C programming projects for the Portfolio Building course.
-
-## How to Compile and Run
-gcc pavan.c -o pavan
-./pavan
-
-## Author
-Pavan Naik R
+I am an engineering student learning programming and developing my skills in C, C++, Java, Python, and web development.

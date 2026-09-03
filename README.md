@@ -4,3 +4,6 @@ I am an engineering student learning programming and developing my skills in C, 
 ## Skills
 
 Learning Java programming
+Activity 4 completed successfully
+
+Git branching activity completed

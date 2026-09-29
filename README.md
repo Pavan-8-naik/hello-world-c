@@ -7,3 +7,8 @@ Learning Java programming
 Activity 4 completed successfully
 
 Git branching activity completed
+
+## Projects
+
+### Simple Line Editor in C
+A basic C project that allows users to insert, delete, and display lines using an array of strings.
